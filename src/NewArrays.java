@@ -23,7 +23,7 @@ public class NewArrays {
 				names[x]=names[x].toUpperCase();
 			}
 			Arrays.sort(names);
-			System.out.println("The first name in the list is "+names[0]);
+			System.out.println("The first name on the list is "+names[0]);
 			System.out.println("The last name on the list is "+names[names.length-1]);
 			System.out.println("The name that appears in the middle of the list is "+names[names.length/2]);
 			
